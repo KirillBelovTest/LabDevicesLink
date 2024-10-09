@@ -1,10 +1,12 @@
+(* ::Package:: *)
+
 PacletObject[
   <|
     "Name" -> "KirillBelov/LabDevicesLink",
     "Description" -> "Lab devices tools for Wolfrm Language",
     "Creator" -> "Kirill Belov",
-    "Version" -> "1.0.0",
-    "WolframVersion" -> "14.1+",
+    "Version" -> "1.0.1",
+    "WolframVersion" -> "13.2+",
     "PublisherID" -> "KirillBelov",
     "License" -> "MIT",
     "PrimaryContext" -> "KirillBelov`LabDevicesLink`",
