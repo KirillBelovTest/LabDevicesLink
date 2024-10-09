@@ -5,7 +5,7 @@ PacletObject[
     "Name" -> "KirillBelov/LabDevicesLink",
     "Description" -> "Lab devices tools for Wolfrm Language",
     "Creator" -> "Kirill Belov",
-    "Version" -> "1.0.1",
+    "Version" -> "1.0.4",
     "WolframVersion" -> "13.2+",
     "PublisherID" -> "KirillBelov",
     "License" -> "MIT",
